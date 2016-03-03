@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mtuservice:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mtuservice.war">
+      <element id="artifact" artifact-name="mtuservice:war exploded" />
+    </root>
+  </artifact>
+</component>
